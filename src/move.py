@@ -16,8 +16,7 @@ def move():
         
     # DON'T WORRY ABOUT CODE ABOVE
     #----------------------------------------------------------------------------------------
-    #JUST MAKE THE TURTLE MOVE IN A LINE
-    #Literally just add a line under this one where you set the x value of vel_msg.linear to "speed"
+    #JUST MAKE THE TURTLE MOVE IN A STRAIGHT LINE, IT'S EASY!
     
     #This is to make the turtle stop after it moves
     vel_msg.linear.y = 0
